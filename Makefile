@@ -1,5 +1,7 @@
 SHELL := bash
 
+default: export
+
 all: execute export
 
 execute:
