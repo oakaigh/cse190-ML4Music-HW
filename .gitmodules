@@ -1,3 +1,4 @@
 [submodule "8/data"]
 	path = 8/data
 	url = https://gitlab.com/oakaigh/cse190-ml4music-hw-data.git
+	branch = .

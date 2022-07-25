@@ -11,3 +11,7 @@
 - [VMO Audio](5/5.html)
 - [CNN-RNN Genre Classification](8/8.html)
 - [GAN pix2pix & chroma](9/9.html)
+
+```
+git submodule update --init --recursive
+```
